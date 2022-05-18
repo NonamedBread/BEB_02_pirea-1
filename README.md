@@ -41,6 +41,19 @@ We are also planning to implement a function that allows you to travel to your o
   </div>
 </div>
 
+# :busts_in_silhouette: Team Contact
+
+  <div></div>
+  
+  tetgo :  [Git](https://github.com/tetgo), [Blog]()                                      
+  Kawasaki-JY : [Git](https://github.com/Kawasaki-JY), [Blog]()                                        
+  mijin6060 : [Git](https://github.com/mijin6060), [Blog]()                                           
+  NonamedBread : [Git](https://github.com/NonamedBread), [Blog](https://velog.io/@rbghks2102)                                            
+  
+  <div></div>
+  
+  ***If you want*** : :point_right: [Team Members Details](https://github.com/codestates/BEB_02_pirea/wiki/Members) :point_left:
+  
 # :wrench: RoadMap & MileSton
 
 <div align="center">
@@ -107,18 +120,7 @@ Contributions are what make this open source project such an amazing thing to be
 Please click the our :point_right: [wiki](https://github.com/codestates/BEB_02_pirea/wiki) :point_left:
   
   
-# :busts_in_silhouette: Team Contact
 
-  <div></div>
-  
-  tetgo :  [Git](https://github.com/tetgo), [Blog]()                                      
-  Kawasaki-JY : [Git](https://github.com/Kawasaki-JY), [Blog]()                                        
-  mijin6060 : [Git](https://github.com/mijin6060), [Blog]()                                           
-  NonamedBread : [Git](https://github.com/NonamedBread), [Blog](https://velog.io/@rbghks2102)                                            
-  
-  <div></div>
-  
-  ***If you want*** : :point_right: [Team Members Details](https://github.com/codestates/BEB_02_pirea/wiki/Members) :point_left:
   
 # :key: License
 
